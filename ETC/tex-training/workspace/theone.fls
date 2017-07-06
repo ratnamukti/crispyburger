@@ -1,0 +1,15 @@
+PWD /mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace/theone.tex
+OUTPUT /mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace/theone.log
+OUTPUT /mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace/content.clean.aux
+INPUT /mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace/content.clean.tex
+INPUT /mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace/content.clean.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+OUTPUT /mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace/theone.pdf
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+OUTPUT /mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace/test-include.aux

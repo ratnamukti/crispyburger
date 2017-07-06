@@ -1,0 +1,54 @@
+%
+% beam.tex
+% 
+% Digunakan sebagai contoh penggunaan beamer class pada tutorial 
+% LaTeX yang diadakan di Fasilkom, 5 Maret 2010. 
+% 
+% @author  Andreas Febrian
+% @version 1.00
+%
+
+\documentclass[xcolor=pdftex,dvipsnames,table,11pt,final]{beamer}
+
+\usepackage{color}
+\definecolor{bottomColor}{rgb}{0.75,0.75,0.75}
+\definecolor{middleColor}{rgb}{0.89,0.89,0.89}
+\definecolor{topColor}{rgb}{0.59,0.59,0.59}
+
+\setbeamerfont{title}{size=\Huge}
+\setbeamercolor{structure}{fg=white}
+\setbeamertemplate{frametitle}[default]%[center]
+\setbeamercolor{normal text}{bg=middleColor, fg=black}
+\setbeamertemplate{background canvas}[vertical shading]
+	[bottom=bottomColor, middle=middleColor, top=topColor]
+\setbeamertemplate{items}[circle]
+\setbeamerfont{frametitle}{size=\huge}
+\setbeamercovered{dynamic}
+
+\begin{document}
+
+\begin{frame}
+	\definecolor{orange}{RGB}{255,128,0}
+	\color{orange}
+	\frametitle{Tic-Tac-Toe via {\tt tabular}}
+
+	{\Huge
+	\begin{center}
+		\begin{tabular}{c|c|c}
+			\onslide<9->{O} & \onslide<8->{X} & \onslide<2->{X} \\ \hline
+			\onslide<6->{X} & \onslide<3->{O} & \onslide<5->{O} \\ \hline
+			\onslide<10->{X} & \onslide<7->{O} & \onslide<4->{X}
+		\end{tabular}
+	\end{center}
+	}
+\end{frame}
+
+\begin{frame}
+	\frametitle{bermain dengan \LaTeX}
+
+	Suhu ruangan mencapai $23^{\circ}\mathrm{C}$\\ \pause
+	\framebox{\OE; contoh karakter yang bisa ditulis \LaTeX} \\[2cm] \pause
+	Dibelakang \LaTeX ada \TeX \\ \pause
+	Sayang semuanya harus berakhir \ldots
+\end{frame}
+\end{document}

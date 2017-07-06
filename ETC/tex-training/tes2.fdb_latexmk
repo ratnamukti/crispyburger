@@ -1,0 +1,21 @@
+# Fdb version 3
+["pdflatex"] 1460781977 "tes2.tex" "/mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/tes2.pdf" "tes2" 1460781977
+  "/etc/texmf/web2c/texmf.cnf" 1458757521 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/tes2.aux" 1460781977 29 d96afe91f58d0701bf6d806afdf0bab6 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1428932888 20708 96f8bca6e380179cada1d49716376167 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo" 1428932888 9190 a2c71ff21fa1cfc03c403f5e246966b5 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1435377840 31349 7675f8adfbe12aae865d340d35423a49 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1435377840 31349 7675f8adfbe12aae865d340d35423a49 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1459310803 725443 cc3aebd94b116976de022a0ae8ec5bb0 ""
+  "amsmath.aux" 1460781977 422 56f150b787b9bc495b94fe37c40e3665 ""
+  "amsmath.tex" 0 -1 0 ""
+  "tes2.aux" 1460781977 29 d96afe91f58d0701bf6d806afdf0bab6 ""
+  "tes2.tex" 1460781885 263 3f4d56de28ffcabf17d72987798ef817 ""
+  (generated)
+  "tes2.log"
+  "/mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/tes2.pdf"
+  "amsmath.aux"
+  "tes2.aux"
+  "/mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/tes2.log"

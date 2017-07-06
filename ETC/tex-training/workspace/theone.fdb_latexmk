@@ -1,0 +1,21 @@
+# Fdb version 3
+["pdflatex"] 1460781863 "theone.tex" "/mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace/theone.pdf" "theone" 1460781863
+  "/etc/texmf/web2c/texmf.cnf" 1458757521 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace/theone.aux" 1460780458 61 7e22789bf1a0ef932b73ff28d43d25cf ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1435377840 31349 7675f8adfbe12aae865d340d35423a49 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1435377840 31349 7675f8adfbe12aae865d340d35423a49 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1460779635 127715 132155e7ee9993e0b74e204ed9b866dc ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1459310803 725443 cc3aebd94b116976de022a0ae8ec5bb0 ""
+  "content.clean.tex" 1460780614 8401 b39891f33b2fae5953c1eabc0727d605 ""
+  "test-include.tex" 0 -1 0 ""
+  "theone.tex" 1460781862 379 f8e397d3e6b37f65d098eac2c99f240c ""
+  (generated)
+  "theone.log"
+  "/mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace/theone.pdf"
+  "theone.aux"
+  "theone.pdf"
+  "content.clean.aux"
+  "test-include.aux"
+  "/mnt/wind/fasilkom/skripsi/laporanskripsi/tex-training/workspace/theone.log"
