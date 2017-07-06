@@ -1,0 +1,8 @@
+Version control itu penting. Mengingat banyaknya kasus kehilangan laptop 
+padahal data skripsinya ada di HD atau laptop.
+
+
+Selalu. push. ke github.
+
+Tks,
+Desi.
